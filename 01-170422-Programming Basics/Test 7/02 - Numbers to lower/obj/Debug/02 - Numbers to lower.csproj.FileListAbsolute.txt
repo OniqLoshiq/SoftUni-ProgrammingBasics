@@ -1,0 +1,5 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\02 - Numbers to lower\bin\Debug\02 - Numbers to lower.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\02 - Numbers to lower\bin\Debug\02 - Numbers to lower.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\02 - Numbers to lower\bin\Debug\02 - Numbers to lower.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\02 - Numbers to lower\obj\Debug\02 - Numbers to lower.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\02 - Numbers to lower\obj\Debug\02 - Numbers to lower.pdb

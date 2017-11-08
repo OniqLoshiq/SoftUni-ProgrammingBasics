@@ -1,0 +1,6 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\04 - BiggerNumber\obj\Debug\04 - BiggerNumber.csprojResolveAssemblyReference.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\04 - BiggerNumber\bin\Debug\04 - BiggerNumber.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\04 - BiggerNumber\bin\Debug\04 - BiggerNumber.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\04 - BiggerNumber\bin\Debug\04 - BiggerNumber.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\04 - BiggerNumber\obj\Debug\04 - BiggerNumber.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\04 - BiggerNumber\obj\Debug\04 - BiggerNumber.pdb

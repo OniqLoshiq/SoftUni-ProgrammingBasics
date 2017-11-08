@@ -1,0 +1,6 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\9 - Vowels sum\obj\Debug\9 - Vowels sum.csprojResolveAssemblyReference.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\9 - Vowels sum\bin\Debug\9 - Vowels sum.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\9 - Vowels sum\bin\Debug\9 - Vowels sum.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\9 - Vowels sum\bin\Debug\9 - Vowels sum.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\9 - Vowels sum\obj\Debug\9 - Vowels sum.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\9 - Vowels sum\obj\Debug\9 - Vowels sum.pdb

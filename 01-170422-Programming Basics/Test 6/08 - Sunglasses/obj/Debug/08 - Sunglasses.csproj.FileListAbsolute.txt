@@ -1,0 +1,5 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\08 - Sunglasses\bin\Debug\08 - Sunglasses.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\08 - Sunglasses\bin\Debug\08 - Sunglasses.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\08 - Sunglasses\bin\Debug\08 - Sunglasses.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\08 - Sunglasses\obj\Debug\08 - Sunglasses.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\08 - Sunglasses\obj\Debug\08 - Sunglasses.pdb

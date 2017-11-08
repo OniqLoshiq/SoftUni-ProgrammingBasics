@@ -1,0 +1,5 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\07 - MinutesAndSeconds\bin\Debug\07 - MinutesAndSeconds.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\07 - MinutesAndSeconds\bin\Debug\07 - MinutesAndSeconds.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\07 - MinutesAndSeconds\bin\Debug\07 - MinutesAndSeconds.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\07 - MinutesAndSeconds\obj\Debug\07 - MinutesAndSeconds.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\07 - MinutesAndSeconds\obj\Debug\07 - MinutesAndSeconds.pdb

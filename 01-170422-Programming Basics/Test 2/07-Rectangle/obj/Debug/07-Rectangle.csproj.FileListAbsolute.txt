@@ -1,0 +1,5 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\07-Rectangle\bin\Debug\07-Rectangle.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\07-Rectangle\bin\Debug\07-Rectangle.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\07-Rectangle\bin\Debug\07-Rectangle.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\07-Rectangle\obj\Debug\07-Rectangle.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\07-Rectangle\obj\Debug\07-Rectangle.pdb

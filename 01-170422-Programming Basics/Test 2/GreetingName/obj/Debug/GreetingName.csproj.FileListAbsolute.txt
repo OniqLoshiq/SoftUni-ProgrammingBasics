@@ -1,0 +1,5 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\GreetingName\bin\Debug\GreetingName.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\GreetingName\bin\Debug\GreetingName.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\GreetingName\bin\Debug\GreetingName.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\GreetingName\obj\Debug\GreetingName.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\GreetingName\obj\Debug\GreetingName.pdb

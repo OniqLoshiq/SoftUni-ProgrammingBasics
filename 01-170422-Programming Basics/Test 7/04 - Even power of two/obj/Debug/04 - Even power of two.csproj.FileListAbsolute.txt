@@ -1,0 +1,5 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\04 - Even power of two\bin\Debug\04 - Even power of two.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\04 - Even power of two\bin\Debug\04 - Even power of two.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\04 - Even power of two\bin\Debug\04 - Even power of two.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\04 - Even power of two\obj\Debug\04 - Even power of two.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\04 - Even power of two\obj\Debug\04 - Even power of two.pdb

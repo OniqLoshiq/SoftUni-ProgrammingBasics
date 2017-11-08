@@ -1,0 +1,5 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\04-Text\bin\Debug\04-Text.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\04-Text\bin\Debug\04-Text.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\04-Text\bin\Debug\04-Text.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\04-Text\obj\Debug\04-Text.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\04-Text\obj\Debug\04-Text.pdb

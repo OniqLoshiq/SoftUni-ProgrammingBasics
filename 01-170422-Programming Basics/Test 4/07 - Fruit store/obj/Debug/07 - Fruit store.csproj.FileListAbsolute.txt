@@ -1,0 +1,6 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 4\07 - Fruit store\bin\Debug\07 - Fruit store.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 4\07 - Fruit store\bin\Debug\07 - Fruit store.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 4\07 - Fruit store\bin\Debug\07 - Fruit store.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 4\07 - Fruit store\obj\Debug\07 - Fruit store.csprojResolveAssemblyReference.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 4\07 - Fruit store\obj\Debug\07 - Fruit store.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 4\07 - Fruit store\obj\Debug\07 - Fruit store.pdb

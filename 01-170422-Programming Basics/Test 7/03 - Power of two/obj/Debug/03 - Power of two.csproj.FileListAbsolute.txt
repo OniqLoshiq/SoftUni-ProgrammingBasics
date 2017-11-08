@@ -1,0 +1,5 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\03 - Power of two\bin\Debug\03 - Power of two.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\03 - Power of two\bin\Debug\03 - Power of two.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\03 - Power of two\bin\Debug\03 - Power of two.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\03 - Power of two\obj\Debug\03 - Power of two.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\03 - Power of two\obj\Debug\03 - Power of two.pdb

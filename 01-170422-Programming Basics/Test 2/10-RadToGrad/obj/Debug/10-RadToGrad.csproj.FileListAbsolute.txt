@@ -1,0 +1,5 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\10-RadToGrad\bin\Debug\10-RadToGrad.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\10-RadToGrad\bin\Debug\10-RadToGrad.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\10-RadToGrad\bin\Debug\10-RadToGrad.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\10-RadToGrad\obj\Debug\10-RadToGrad.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\10-RadToGrad\obj\Debug\10-RadToGrad.pdb

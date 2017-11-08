@@ -1,0 +1,6 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 4\05 - Invalid number\bin\Debug\05 - Invalid number.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 4\05 - Invalid number\bin\Debug\05 - Invalid number.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 4\05 - Invalid number\bin\Debug\05 - Invalid number.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 4\05 - Invalid number\obj\Debug\05 - Invalid number.csprojResolveAssemblyReference.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 4\05 - Invalid number\obj\Debug\05 - Invalid number.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 4\05 - Invalid number\obj\Debug\05 - Invalid number.pdb

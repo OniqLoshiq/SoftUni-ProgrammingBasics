@@ -1,0 +1,6 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\06 - Bonus points\obj\Debug\06 - Bonus points.csprojResolveAssemblyReference.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\06 - Bonus points\bin\Debug\06 - Bonus points.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\06 - Bonus points\bin\Debug\06 - Bonus points.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\06 - Bonus points\bin\Debug\06 - Bonus points.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\06 - Bonus points\obj\Debug\06 - Bonus points.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\06 - Bonus points\obj\Debug\06 - Bonus points.pdb

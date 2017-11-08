@@ -1,0 +1,6 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 1\Test 1\obj\Debug\01.csprojResolveAssemblyReference.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 1\Test 1\bin\Debug\Test 1.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 1\Test 1\bin\Debug\Test 1.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 1\Test 1\bin\Debug\Test 1.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 1\Test 1\obj\Debug\Test 1.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 1\Test 1\obj\Debug\Test 1.pdb

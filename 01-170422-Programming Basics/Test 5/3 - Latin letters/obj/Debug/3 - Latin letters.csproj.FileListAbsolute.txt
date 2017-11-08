@@ -1,0 +1,5 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\3 - Latin letters\bin\Debug\3 - Latin letters.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\3 - Latin letters\bin\Debug\3 - Latin letters.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\3 - Latin letters\bin\Debug\3 - Latin letters.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\3 - Latin letters\obj\Debug\3 - Latin letters.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\3 - Latin letters\obj\Debug\3 - Latin letters.pdb

@@ -1,0 +1,5 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\09-CelToFahr\bin\Debug\09-CelToFahr.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\09-CelToFahr\bin\Debug\09-CelToFahr.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\09-CelToFahr\bin\Debug\09-CelToFahr.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\09-CelToFahr\obj\Debug\09-CelToFahr.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\09-CelToFahr\obj\Debug\09-CelToFahr.pdb

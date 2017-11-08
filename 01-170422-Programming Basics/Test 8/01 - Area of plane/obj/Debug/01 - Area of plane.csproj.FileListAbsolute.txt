@@ -1,0 +1,6 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 8\01 - Area of plane\bin\Debug\01 - Area of plane.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 8\01 - Area of plane\bin\Debug\01 - Area of plane.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 8\01 - Area of plane\bin\Debug\01 - Area of plane.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 8\01 - Area of plane\obj\Debug\01 - Area of plane.csprojResolveAssemblyReference.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 8\01 - Area of plane\obj\Debug\01 - Area of plane.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 8\01 - Area of plane\obj\Debug\01 - Area of plane.pdb

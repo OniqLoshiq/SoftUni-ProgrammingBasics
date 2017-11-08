@@ -1,0 +1,5 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\03 - Square of stars\bin\Debug\03 - Square of stars.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\03 - Square of stars\bin\Debug\03 - Square of stars.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\03 - Square of stars\bin\Debug\03 - Square of stars.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\03 - Square of stars\obj\Debug\03 - Square of stars.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\03 - Square of stars\obj\Debug\03 - Square of stars.pdb

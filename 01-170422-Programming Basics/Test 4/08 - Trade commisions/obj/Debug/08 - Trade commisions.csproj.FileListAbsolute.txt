@@ -1,0 +1,6 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 4\08 - Trade commisions\bin\Debug\08 - Trade commisions.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 4\08 - Trade commisions\bin\Debug\08 - Trade commisions.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 4\08 - Trade commisions\bin\Debug\08 - Trade commisions.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 4\08 - Trade commisions\obj\Debug\08 - Trade commisions.csprojResolveAssemblyReference.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 4\08 - Trade commisions\obj\Debug\08 - Trade commisions.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 4\08 - Trade commisions\obj\Debug\08 - Trade commisions.pdb

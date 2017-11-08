@@ -1,0 +1,5 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\13 - Pyramid number\bin\Debug\13 - Pyramid number.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\13 - Pyramid number\bin\Debug\13 - Pyramid number.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\13 - Pyramid number\bin\Debug\13 - Pyramid number.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\13 - Pyramid number\obj\Debug\13 - Pyramid number.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\13 - Pyramid number\obj\Debug\13 - Pyramid number.pdb

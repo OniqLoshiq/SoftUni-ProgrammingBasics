@@ -1,0 +1,6 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\05 - Number 1 to 10\bin\Debug\05 - Number 1 to 10.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\05 - Number 1 to 10\bin\Debug\05 - Number 1 to 10.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\05 - Number 1 to 10\bin\Debug\05 - Number 1 to 10.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\05 - Number 1 to 10\obj\Debug\05 - Number 1 to 10.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\05 - Number 1 to 10\obj\Debug\05 - Number 1 to 10.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 3\05 - Number 1 to 10\obj\Debug\05 - Number 1 to 10.csprojResolveAssemblyReference.cache

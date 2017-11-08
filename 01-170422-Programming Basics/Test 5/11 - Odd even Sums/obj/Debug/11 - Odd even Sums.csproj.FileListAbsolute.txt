@@ -1,0 +1,6 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\11 - Odd even Sums\obj\Debug\11 - Odd even Sums.csprojResolveAssemblyReference.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\11 - Odd even Sums\bin\Debug\11 - Odd even Sums.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\11 - Odd even Sums\bin\Debug\11 - Odd even Sums.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\11 - Odd even Sums\bin\Debug\11 - Odd even Sums.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\11 - Odd even Sums\obj\Debug\11 - Odd even Sums.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\11 - Odd even Sums\obj\Debug\11 - Odd even Sums.pdb

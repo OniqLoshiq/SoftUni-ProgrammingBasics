@@ -1,0 +1,6 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\06-Circle\bin\Debug\06-Circle.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\06-Circle\bin\Debug\06-Circle.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\06-Circle\bin\Debug\06-Circle.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\06-Circle\obj\Debug\06-Circle.csprojResolveAssemblyReference.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\06-Circle\obj\Debug\06-Circle.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\06-Circle\obj\Debug\06-Circle.pdb

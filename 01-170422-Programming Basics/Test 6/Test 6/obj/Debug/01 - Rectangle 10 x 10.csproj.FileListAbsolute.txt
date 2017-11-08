@@ -1,0 +1,6 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\Test 6\bin\Debug\Test 6.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\Test 6\bin\Debug\Test 6.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\Test 6\bin\Debug\Test 6.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\Test 6\obj\Debug\01 - Rectangle 10 x 10.csprojResolveAssemblyReference.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\Test 6\obj\Debug\Test 6.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\Test 6\obj\Debug\Test 6.pdb

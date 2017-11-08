@@ -1,0 +1,6 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\6 - Min number\bin\Debug\6 - Min number.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\6 - Min number\bin\Debug\6 - Min number.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\6 - Min number\bin\Debug\6 - Min number.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\6 - Min number\obj\Debug\6 - Min number.csprojResolveAssemblyReference.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\6 - Min number\obj\Debug\6 - Min number.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\6 - Min number\obj\Debug\6 - Min number.pdb

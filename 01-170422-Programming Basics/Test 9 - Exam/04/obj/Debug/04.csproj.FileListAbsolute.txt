@@ -1,0 +1,5 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 9 - Exam\04\bin\Debug\04.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 9 - Exam\04\bin\Debug\04.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 9 - Exam\04\bin\Debug\04.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 9 - Exam\04\obj\Debug\04.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 9 - Exam\04\obj\Debug\04.pdb

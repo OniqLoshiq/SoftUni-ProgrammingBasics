@@ -1,0 +1,5 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\4 - Sum numbers\bin\Debug\4 - Sum numbers.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\4 - Sum numbers\bin\Debug\4 - Sum numbers.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\4 - Sum numbers\bin\Debug\4 - Sum numbers.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\4 - Sum numbers\obj\Debug\4 - Sum numbers.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\4 - Sum numbers\obj\Debug\4 - Sum numbers.pdb

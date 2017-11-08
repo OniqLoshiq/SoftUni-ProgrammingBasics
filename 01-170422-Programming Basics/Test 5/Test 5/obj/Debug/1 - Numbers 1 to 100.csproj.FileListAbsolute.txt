@@ -1,0 +1,6 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\Test 5\bin\Debug\Test 5.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\Test 5\bin\Debug\Test 5.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\Test 5\bin\Debug\Test 5.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\Test 5\obj\Debug\1 - Numbers 1 to 100.csprojResolveAssemblyReference.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\Test 5\obj\Debug\Test 5.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 5\Test 5\obj\Debug\Test 5.pdb

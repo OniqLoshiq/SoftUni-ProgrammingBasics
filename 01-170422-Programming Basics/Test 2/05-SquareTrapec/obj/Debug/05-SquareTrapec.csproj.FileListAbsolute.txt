@@ -1,0 +1,6 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\05-SquareTrapec\bin\Debug\05-SquareTrapec.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\05-SquareTrapec\bin\Debug\05-SquareTrapec.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\05-SquareTrapec\bin\Debug\05-SquareTrapec.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\05-SquareTrapec\obj\Debug\05-SquareTrapec.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\05-SquareTrapec\obj\Debug\05-SquareTrapec.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\05-SquareTrapec\obj\Debug\05-SquareTrapec.csprojResolveAssemblyReference.cache

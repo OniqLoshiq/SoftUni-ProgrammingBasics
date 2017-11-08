@@ -1,0 +1,6 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\09 - House\bin\Debug\09 - House.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\09 - House\bin\Debug\09 - House.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\09 - House\bin\Debug\09 - House.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\09 - House\obj\Debug\09 - House.csprojResolveAssemblyReference.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\09 - House\obj\Debug\09 - House.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\09 - House\obj\Debug\09 - House.pdb

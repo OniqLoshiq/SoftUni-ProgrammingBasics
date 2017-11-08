@@ -1,0 +1,5 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\06 - Rombus of stars\bin\Debug\06 - Rombus of stars.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\06 - Rombus of stars\bin\Debug\06 - Rombus of stars.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\06 - Rombus of stars\bin\Debug\06 - Rombus of stars.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\06 - Rombus of stars\obj\Debug\06 - Rombus of stars.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 6\06 - Rombus of stars\obj\Debug\06 - Rombus of stars.pdb

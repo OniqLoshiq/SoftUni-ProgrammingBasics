@@ -1,0 +1,5 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\06 - Number in range 1-100\bin\Debug\06 - Number in range 1-100.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\06 - Number in range 1-100\bin\Debug\06 - Number in range 1-100.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\06 - Number in range 1-100\bin\Debug\06 - Number in range 1-100.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\06 - Number in range 1-100\obj\Debug\06 - Number in range 1-100.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 7\06 - Number in range 1-100\obj\Debug\06 - Number in range 1-100.pdb

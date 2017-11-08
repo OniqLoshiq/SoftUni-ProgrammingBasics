@@ -1,0 +1,5 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\08-Triangle\bin\Debug\08-Triangle.exe.config
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\08-Triangle\bin\Debug\08-Triangle.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\08-Triangle\bin\Debug\08-Triangle.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\08-Triangle\obj\Debug\08-Triangle.exe
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\Test 2\08-Triangle\obj\Debug\08-Triangle.pdb
